@@ -1,0 +1,903 @@
+[
+    {
+        "Pledge": 2015, 
+        "Hometown": "Perth Amboy, NJ", 
+        "Member": "Brother", 
+        "Books": [
+            "Beloved by Toni Morrison", 
+            "The Awakening by Kate Chopin", 
+            "One Flew Over the Cuckoo's Nest by Ken Kesey", 
+            "The Bell Jar by Sylvia Plath"
+        ], 
+        "Year": 2017, 
+        "Concentration": "Health and Human Biology", 
+        "ID": "Heidy_Mendez", 
+        "Positions": [
+            "House Manager, Fall 2016"
+        ], 
+        "Name": "Heidy Mendez"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Guangzhou, China", 
+        "Member": "Sibling", 
+        "Books": [
+            "1984", 
+            "The Picture of Dorian Gray", 
+            "Gone with the Wind"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Computer Science", 
+        "ID": "Hanhui_Li", 
+        "Positions": [], 
+        "Name": "Hanhui Li"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Watsonville, CA", 
+        "Member": "Sibling", 
+        "Books": [
+            "The City of Ember", 
+            "Harry Potter", 
+            "InkHeart", 
+            "To Kill a Mockingbird", 
+            "The Giver", 
+            "A Series of Unfortunate Events", 
+            "Extremely Loud and Incredibly Close"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Education Studies", 
+        "ID": "Felicia_Davidson", 
+        "Positions": [
+            "Mixer Chair, Fall 2018"
+        ], 
+        "Name": "Felicia Davidson"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Nantucket, MA", 
+        "Member": "Sister", 
+        "Books": [
+            " Seveneves - Neal Stephenson", 
+            " In the Lake of the Woods - Tim O'Brien", 
+            " Spook - Mary Roach"
+        ], 
+        "Year": 2021, 
+        "Concentration": "Geochemistry", 
+        "ID": " Sophie_Kuhl", 
+        "Positions": [], 
+        "Name": " Sophie Kuhl"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Baltimore, MD", 
+        "Member": "Sister", 
+        "Books": [
+            "Tess of the U'Ubervilles - Thomas Hardy", 
+            "The Collector - John Fowles", 
+            "Lolita - Vladimir Nakobov "
+        ], 
+        "Year": 2019, 
+        "Concentration": "Geology-Math/Physics", 
+        "ID": "Blake_DeVaney", 
+        "Positions": [
+            "Rush Chair, Spring 2017", 
+            "Cross of Gold Chair, Fall 2017", 
+            "Community Service Chair, 2018"
+        ], 
+        "Name": "Blake DeVaney"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Wilmington, DE", 
+        "Member": "Sibling", 
+        "Books": [
+            "Beloved - Toni Morrison", 
+            "The Fifth Season - N.K. Jemisin", 
+            "Stories of Your Life and Others - Ted Chiang", 
+            "Wuthering Heights - Emily Bront\u00eb", 
+            "Red Bird - Mary Oliver"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Physics", 
+        "ID": "Liam_Carpenter-Urquhart", 
+        "Positions": [
+            "Inter-Chapter Chair, Spring 2017", 
+            "Chaplain, Fall 2017"
+        ], 
+        "Name": "Liam Carpenter-Urquhart"
+    }, 
+    {
+        "Pledge": 2015, 
+        "Hometown": "Queens, NY", 
+        "Member": "Sibling", 
+        "Books": [
+            "The Little Prince by Antoine de Saint-Exupery", 
+            "World War Z by Max Brooks", 
+            "Mood Indigo by Boris Vian", 
+            "The Glass Castle by Jeanette Walls", 
+            "It's Kind of a Funny Story by Ned Vizzini"
+        ], 
+        "Year": 2018, 
+        "Concentration": "Neuroscience", 
+        "ID": "Judith_Lao", 
+        "Positions": [
+            "Chaplain, Fall 2016, Spring 2017"
+        ], 
+        "Name": "Judith Lao"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Kuala Lumpur/Penang , Malaysia", 
+        "Member": "Sibling", 
+        "Books": [
+            " Matilda - Roald Dah", 
+            " The Magical Faraway Tree collection - Enid Blyton", 
+            " the Molly Moon series - Georgia Byng", 
+            " Chinese Cinderella - Adeline Yen Mah"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Cherilyn_Tan_Qiao_Lyn", 
+        "Positions": [], 
+        "Name": " Cherilyn Tan Qiao Lyn"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Greenwich, CT", 
+        "Member": "Sister", 
+        "Books": [
+            "Monstress"
+        ], 
+        "Year": 2019, 
+        "Concentration": "East Asian Studies; History of Art and Architecture", 
+        "ID": "Mary_Nichols", 
+        "Positions": [], 
+        "Name": "Mary Nichols"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": " St. Louis, Missouri", 
+        "Member": "Pledge", 
+        "Books": [
+            "The Harry Potter Series - J.K. Rowling ", 
+            "Robery Langdon Series - Dan Brown", 
+            "Mediations - Marcus Aurelius", 
+            "The Book Thief - Markus Zuzak"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Sammy", 
+        "Positions": [], 
+        "Name": " Nidhi Bhaskar"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Newton, MA", 
+        "Member": "Sibling", 
+        "Books": [
+            "The Things They Carried - Tim O'Brien", 
+            "The Harry Potter Series", 
+            "Midnight's Children - Salman Rushdie", 
+            "Slaughterhouse-Five - Kurt Vonnegut", 
+            "The Great Gatsby - F. Scott Fitzgerald", 
+            "Pompeii - Robert Harris"
+        ], 
+        "Year": 2019, 
+        "Concentration": "History", 
+        "ID": "Sarah_Joffe", 
+        "Positions": [], 
+        "Name": "Sarah Joffe"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Spencer, MA", 
+        "Member": "Sibling", 
+        "Books": [
+            "Goth - Otsuichi", 
+            "The Great Gatsby - F. Scott Fitzgerald"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Computer Science; Literary Arts", 
+        "ID": "Anna_White", 
+        "Positions": [], 
+        "Name": "Anna White"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "San Francisco,CA", 
+        "Member": "Brother", 
+        "Books": [
+            "The Miraculous Journey of Edward Tulane - Kate DiCamillo", 
+            "The Girls - Emma Cline", 
+            "Lazarillo de Tormes - anonymous"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Allegra_Woolsey_Friedman", 
+        "Positions": [], 
+        "Name": " Allegra Woolsey Friedman"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "San Francisco,CA", 
+        "Member": "Brother", 
+        "Books": [
+            "Acting: The First Six Lessons - Richard Boleslavsky", 
+            "As Tr\u00eas Marias - Rachel de Queiroz", 
+            "Changes in the Land - William Cronon", 
+            "Encounters with the Archdruid - John McPhee"
+        ], 
+        "Year": 2020, 
+        "Concentration": "", 
+        "ID": " Isidor_Goldberg", 
+        "Positions": [], 
+        "Name": " Isidor Goldberg"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Seattle,WA", 
+        "Member": "Sister", 
+        "Books": [
+            "The Wicked Years series - Greggory Maguire", 
+            "Wicked Gentlemen - Ginn Hale", 
+            "anything by David Sedaris"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Ariel_Rotter-Aboyoun", 
+        "Positions": [], 
+        "Name": " Ariel Rotter-Aboyoun"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Hermantown, MN", 
+        "Member": "Sibling", 
+        "Books": [
+            "To Kill a Mockingbird - Harper Lee", 
+            "The Pet Semetary - Stephen King", 
+            "Normal Heart - Larry Kramer"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Computer Science; Ethnic Studies", 
+        "ID": "Cailyn_Hansen", 
+        "Positions": [
+            "Pledgemaster, 2017", 
+            "House Manager, Spring 2017", 
+            "Tea Chair, Spring 2017", 
+            "Vice President, Spring 2018", 
+            "Social Chair, Fall 2018", 
+            "Interchapter Chair, Fall 2018"
+        ], 
+        "Name": "Cailyn Hansen"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Columbus, OH", 
+        "Member": "Brother", 
+        "Books": [
+            "The Thief - Megan Whalen Turner", 
+            "The Count of Monte Cristo - Alexandre Dumas", 
+            "Portrait of Dorian Gray - Oscar Wilde", 
+            "The Happy Prince - Oscar Wilde", 
+            "Howl's Moving Castle - Dianna Wynne Jones", 
+            "and Everything by Terry Pratchett"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Defense Against the Dark Arts (a.k.a. Computer Science)", 
+        "ID": "Nina_Polshakova", 
+        "Positions": [
+            "House Manager, Spring 2018", 
+            "Tea Chair, Spring 2018, Fall 2018", 
+            "OCIET Chair, Fall 2018"
+        ], 
+        "Name": "Nina Polshakova"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Pass Christian, MS", 
+        "Member": "Sister", 
+        "Books": [
+            "To Kill A Mockingbird - Harper Lee", 
+            "Beloved - Toni Morrison", 
+            "All About Love: New Visions - bell hooks"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Urban Studies", 
+        "ID": "Delaney_Williams", 
+        "Positions": [
+            "Pine Room Chair, Spring 2018"
+        ], 
+        "Name": "Delaney Willaims"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Durham, NC", 
+        "Member": "Brother", 
+        "Books": [
+            "The Little Prince - Antoine de Saint-Exup\u00e9ry", 
+            "Circle of Magic series - Tamora Pierce", 
+            "The Book Thief - Markus Zusak", 
+            "Time Quintet - Madeline L'Engle"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Visual Art; Literary Arts", 
+        "ID": "Julia_Illana", 
+        "Positions": [
+            "Cultural Librarian, Spring 2018", 
+            "Chaplain, Fall 2018, Spring 2019"
+        ], 
+        "Name": "Julia Illana"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": " Milpitas, CA", 
+        "Member": "Pledge", 
+        "Books": [
+            "The Hitchhiker\u2019s Guide to the Galaxy - Douglas Adams"
+        ], 
+        "Year": 2020, 
+        "Concentration": "", 
+        "ID": " Sammy", 
+        "Positions": [], 
+        "Name": " Nikita Ravali Ramoji"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Baltimore, MD", 
+        "Member": "Sibling", 
+        "Books": [
+            "A Message to Garcia - Elbert Hubbard", 
+            "The Sixth Extinction - Elizabeth Kolbert", 
+            "Another Country - James Baldwin"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Economics; Public Policy", 
+        "ID": "Alec_Goldstone", 
+        "Positions": [
+            "Social Chair, Spring 2018", 
+            "Pledgemaster, 2018", 
+            "Interchapter Chair, Fall 2018"
+        ], 
+        "Name": "Alec Goldstone"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Los Angeles, CA", 
+        "Member": "Sister", 
+        "Books": [
+            " The Harry Potter Series - J.K. Rowling", 
+            " Lord of the Flie - William Golding", 
+            " The Things They Carried - Tim O'Brien"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Miranda_Claire_Pla", 
+        "Positions": [], 
+        "Name": " Miranda Claire Pla"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Torrance, CA", 
+        "Member": "Sister", 
+        "Books": [
+            "Wuthering Heights - Emily Bronte", 
+            "Atonement - Ian McEwan", 
+            "Harry Potter and the Goblet of Fire - J. K. Rowling ", 
+            "I'll Give You the Sun - Jandy Nelson ", 
+            "The Book Thief - Markus Zusak", 
+            "Mr. Penumbra's 24-Hour Bookstore - Robin Sloan"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Literary Arts; Economics", 
+        "ID": "Daven_McQueen", 
+        "Positions": [
+            "Inter-Chapter Chair, Spring 2017, Fall 2017", 
+            "House Manager, Spring 2018"
+        ], 
+        "Name": "Daven McQueen"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Rochester, NY", 
+        "Member": "Brother", 
+        "Books": [
+            " Kafka on the Shore - Haruki Marakami", 
+            " The Design of Everyday Things - Donald A. Norman"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Stefan_Korfmacher", 
+        "Positions": [], 
+        "Name": " Stefan Korfmacher"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Los Angeles, CA", 
+        "Member": "Sibling", 
+        "Books": [
+            "Kite Runner"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Computer Science", 
+        "ID": "Shelley_Jain", 
+        "Positions": [
+            "Web Chair, Spring 2018", 
+            "Pine Room Chair, Fall 2018"
+        ], 
+        "Name": "Shelley Jain"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Sanibel, Florida", 
+        "Member": "Brother", 
+        "Books": [
+            "To Kill a Mockingbird - Harper Lee", 
+            "Sula - Toni Morrison", 
+            "The Circle - Dave Eggers", 
+            "The Catcher in the Rye - J. D. Salinger"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Griffin_Eliot_Kupsaw", 
+        "Positions": [], 
+        "Name": " Griffin Eliot Kupsaw"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Wellesley, MA", 
+        "Member": "Sibling", 
+        "Books": [
+            "Good Omens - Terry Pratchett", 
+            "A Song Of Ice And Fire series", 
+            "Speaker for the Dead - Orson Scott Card"
+        ], 
+        "Year": 2019, 
+        "Concentration": "History", 
+        "ID": "Bill_Mizgerd", 
+        "Positions": [
+            "Cultural Librarian, Spring 2017", 
+            "Literature Chair, Fall 2017", 
+            "House Manager, Fall 2018", 
+            "Cross of Gold Chair, Fall 2018"
+        ], 
+        "Name": "Bill Mizgerd"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Chaska, Minnesota", 
+        "Member": "Sibling", 
+        "Books": [
+            "A Song of Ice and Fire series - George R. R. Martin", 
+            "The Picture of Dorian Gray - Oscar Wilde   ", 
+            "Six of Crows - Leigh Bardugo", 
+            "Hitchhiker's Guide to the Galaxy - Douglas Adams ", 
+            "On Writing - Stephen King", 
+            "Fahrenheit 451 - Ray Bradbury"
+        ], 
+        "Year": 2021, 
+        "Concentration": "Astronomy; English", 
+        "ID": " Alexandra_Grace_Ekstrom", 
+        "Positions": [], 
+        "Name": " Alexandra Grace Ekstrom"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Louisville, KY", 
+        "Member": "Brother", 
+        "Books": [
+            "East of Eden", 
+            "The Poisonwood Bible", 
+            "Native Son"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Geological Sciences", 
+        "ID": "Maria_Salameh", 
+        "Positions": [
+            "Recording Secretary, Spring 2018", 
+            "Cultural Librarian, Fall 2018"
+        ], 
+        "Name": "Maria Salameh"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Queens, NY", 
+        "Member": "Brother", 
+        "Books": [
+            "The Fall - Albert Camus", 
+            "A Tale of Two Cities - Charles Dickens", 
+            "The Sound and the Fury - William Faulkner", 
+            "The Chaos Walking Trilogy - Patrick Ness", 
+            "Hamlet - William Shakespeare", 
+            "The Martian - Andy Weir", 
+            "The Taming of the Shrew - William Shakespeare"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Mechanical Engineering", 
+        "ID": "Katie_Wu", 
+        "Positions": [
+            "Recording Secretary, Spring 2017", 
+            "House Manager, Fall 2017"
+        ], 
+        "Name": "Katie Wu"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Palm Coast, FL", 
+        "Member": "Sibling", 
+        "Books": [
+            "The 39 Clues series"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Economics; Public Health", 
+        "ID": "Sokret_Pond", 
+        "Positions": [
+            "Treasurer, 2018"
+        ], 
+        "Name": "Sokret Pond"
+    }, 
+    {
+        "Pledge": 2015, 
+        "Hometown": "Westport, CT", 
+        "Member": "Sibling", 
+        "Books": [
+            "Les Miserables", 
+            "His Dark Materials", 
+            "Harry Potter", 
+            "Narnia", 
+            "Howl's Moving Castle", 
+            "Dianna Wynne Jones in general", 
+            "The Girl Who Circumnavigated Fairyland in a Ship of her Own Making", 
+            "Merle und das Steinerne Licht", 
+            "Hamlet"
+        ], 
+        "Year": 2018, 
+        "Concentration": "Classics", 
+        "ID": "Alfie_Fuertes", 
+        "Positions": [
+            "Recording Secretary, Fall 2018"
+        ], 
+        "Name": "Alfie Fuertes"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "New City, NY", 
+        "Member": "Sibling", 
+        "Books": [
+            "Harry Potter", 
+            "The Fault in Our Stars"
+        ], 
+        "Year": 2019, 
+        "Concentration": "History of Art and Architecture", 
+        "ID": "Natasha_Orlando_Figueiredo", 
+        "Positions": [], 
+        "Name": "Natasha Orlando Figueiredo"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Ventura, CA", 
+        "Member": "Sibling", 
+        "Books": [
+            " The Harry Potter Series - J.K. Rowling"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Public Health; Education Studies", 
+        "ID": " Fidelity_Snow_Ballmer", 
+        "Positions": [], 
+        "Name": " Fidelity Snow Ballmer"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Lexington, MA", 
+        "Member": "Sister", 
+        "Books": [
+            " The Boston Girl  - Anita Diamant"
+        ], 
+        "Year": 2021, 
+        "Concentration": " Political Science; Education Studies", 
+        "ID": " Maeve_Anna_Wiesen", 
+        "Positions": [], 
+        "Name": " Maeve Anna Wiesen"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": " Providence, RI", 
+        "Member": "Brother", 
+        "Books": [
+            "A Darkling Plain - Philip Reeve ", 
+            "Little House on the Prairie - Laura Ingalls Wilder", 
+            "The Goldfinch - Donna Tartt "
+        ], 
+        "Year": 2020, 
+        "Concentration": " Public Policy", 
+        "ID": " Dorothy_Margit_Windham", 
+        "Positions": [], 
+        "Name": " Dorothy Margit Windham"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Pittsburgh PA", 
+        "Member": "Sibling", 
+        "Books": [
+            "Brave New World - Aldous Huxley", 
+            "1984 - George Orwell", 
+            "The Things They Carried - Tim O'Brien ", 
+            "Lolita - Vladimir Nabokov"
+        ], 
+        "Year": 2021, 
+        "Concentration": "Computer Science", 
+        "ID": "Jimmy_Niu", 
+        "Positions": [], 
+        "Name": "Jimmy Niu"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "North Brunswick,NJ", 
+        "Member": "Brother", 
+        "Books": [
+            "The Secret History - Donna Tartt", 
+            "Wuthering Heights - Emily Bronte", 
+            "Unaccustomed Earth - Jhumpa Lahiri", 
+            "The Unofficial Guide to Walt Disney World 2003 - Bob Sehlinger"
+        ], 
+        "Year": 2020, 
+        "Concentration": "", 
+        "ID": " Isha_Chavva", 
+        "Positions": [], 
+        "Name": " Isha Chavva"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Louisville, KY", 
+        "Member": "Sibling", 
+        "Books": [
+            "A Clockwork Orange - Anthony Burgess", 
+            "Lolita - Vladimir Nabokov", 
+            "Never Let Me Go - Kazuo Ishiguro", 
+            "In Cold Blood - Truman Capote ", 
+            "The Age of Innocence - Edith Wharton"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Classics (Latin and Sanskrit Track); Political Science", 
+        "ID": "Ellie_Baker", 
+        "Positions": [
+            "Pledgemaster, 2017", 
+            "Treasurer, 2017", 
+            "Rush Chair, Spring 2018", 
+            "President, Fall 2018"
+        ], 
+        "Name": "Ellie Baker"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": "Miami, FL", 
+        "Member": "Brother", 
+        "Books": [
+            "A Thousand Splendid Suns - Khaled Hosseini", 
+            "The Naked Eye - Roy Johansen", 
+            "The Namesake - Jhumpa Lahiri", 
+            "The Boy Without a Flag - Abraham Rodriguez", 
+            "the Harry Potter Series - J.K. Rowling", 
+            "Anything by Rick Riordan", 
+            "Aristotle and Dante Discover the Secrets of the Universe by Benjamin Alire Saenz", 
+            "The Gentleman's Guide to Vice and Virtue by Mackenzi Lee"
+        ], 
+        "Year": 2021, 
+        "Concentration": "Literary Arts; Linguistics ", 
+        "ID": " Elisia_Denise_Lopez", 
+        "Positions": [], 
+        "Name": " Elisia Denise Lopez"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Hermantown, MN", 
+        "Member": "Sibling", 
+        "Books": [
+            "To Kill a Mockingbird - Harper Lee", 
+            "The Pet Semetary - Stephen King", 
+            "Normal Heart - Larry Kramer"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Computer Science; Ethnic Studies", 
+        "ID": "Cailyn_Hansen", 
+        "Positions": [
+            "Pledgemaster, 2017", 
+            "House Manager, Spring 2017", 
+            "Tea Chair, Spring 2017", 
+            "Vice President, Spring 2018"
+        ], 
+        "Name": "Cailyn Hansen"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Grafton, MA", 
+        "Member": "Sibling", 
+        "Books": [
+            "The Things They Carried - Tim O'Brien", 
+            "When Breath Becomes Air - Paul Kalanithi", 
+            "All the Light We Cannot See - Anthony Doerr", 
+            "The Phantom Tollbooth - Norton Juster", 
+            "Strangers in Their Own Land: Anger and Mourning on the American Right - Arlie Russell Hochschild"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Computer Science", 
+        "ID": "Jack_Kates", 
+        "Positions": [
+            "Literature Chair, Spring 2018", 
+            "Pine Room Chair, Fall 2018"
+        ], 
+        "Name": "Jack Kates"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Manhasset, NY", 
+        "Member": "Sibling", 
+        "Books": [
+            "Pride and Prejudice - Jane Austen", 
+            "Creativity, Inc. - Ed Catmull", 
+            "The Sun is Also a Star - Nicola Yoon", 
+            "Harry Potter series - J.K. Rowling"
+        ], 
+        "Year": 2020, 
+        "Concentration": " Computer Science; Visual Art", 
+        "ID": "Jenna_Tishler", 
+        "Positions": [
+            "OCEIT Chair, Spring 2018", 
+            "Pledgemaster, 2018", 
+            "Web Chair, Fall 2018"
+        ], 
+        "Name": "Jenna Tishler"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Largo, FL", 
+        "Member": "Sister", 
+        "Books": [
+            "Crime and Punishment - Fyodor Dostoyevsky", 
+            "The Three Musketeers - Alexandre Dumans", 
+            "The Count of Monte Cristo - Alexandre Dumas", 
+            "A Portrait of the Artist as a Young Man - James Joyce"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Political Science", 
+        "ID": "Vladimir_Borodin", 
+        "Positions": [], 
+        "Name": "Vladimir Borodin"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Seoul, South Korea", 
+        "Member": "Brother", 
+        "Books": [
+            "Life of Pi - Yahn Martel", 
+            "The Kite Runner - Khaled Hosseini", 
+            "The Harry Potter series"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Computer Science", 
+        "ID": "Jean_Lee", 
+        "Positions": [], 
+        "Name": "Jean Lee"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "Wilmette, IL", 
+        "Member": "Sibling", 
+        "Books": [
+            "An Invitation to Beheading - Vladimir Nabokov", 
+            "The Uncensored Picture of Dorian Gray - Oscar Wilde", 
+            "Any series by Tamora Pierce"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Cognitive Neuroscience; German Studies", 
+        "ID": "Jordan_Rubin-McGregor", 
+        "Positions": [
+            "Mixer Chair, Fall 2017", 
+            "Chaplain, Spring 2018"
+        ], 
+        "Name": "Jordan Rubin-McGregor"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Mexico City, Mexico", 
+        "Member": "Sibling", 
+        "Books": [
+            "The Unbearable Lightness of Being - Milan Kundera", 
+            "Baltasar and Blimunda - Jose Saramago", 
+            "Harry Potter series", 
+            "Hamiltome", 
+            "Anything by Roald Dahl"
+        ], 
+        "Year": 2020, 
+        "Concentration": " BEO (Business Economics Track)", 
+        "ID": "Paty_Garza", 
+        "Positions": [
+            "Mixer Chair, Spring 2018", 
+            "Fall Outreach Chair, Fall 2018"
+        ], 
+        "Name": "Paty Garza"
+    }, 
+    {
+        "Pledge": 2016, 
+        "Hometown": "South Portland, ME", 
+        "Member": "Sister", 
+        "Books": [
+            "The Harry Potter series (especially the first one)", 
+            "Deception Point - Dan Brown ", 
+            "Handle With Care - Jodi Picoult", 
+            "My Sister's Keeper - Jodi Picoult", 
+            "Hard Choices - Hillary Clinton", 
+            "Pride and Prejudice - Jane Austen", 
+            "Jane Eyre - Charlotte Bronte"
+        ], 
+        "Year": 2019, 
+        "Concentration": "Public Policy", 
+        "ID": "Laura_Henny", 
+        "Positions": [
+            "Recording Secretary, Fall 2017", 
+            "Cross of Gold Chair, Spring 2018", 
+            "Vice President, Fall 2018", 
+            "House Manager, Fall 2018"
+        ], 
+        "Name": "Laura Henny"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Lighthouse Point, FL", 
+        "Member": "Sibling", 
+        "Books": [
+            " Harry Potter Series - JK Rowling", 
+            " I'll Give You The Sun - Jandy Nelson", 
+            " Dragon Slippers - Jessica Day George", 
+            " Pride and Prejudice - Jane Austen", 
+            " The Martian Chronicles - Ray Bradbury", 
+            " Raven Boys series - Maggie Stiefvater", 
+            " My Lady Jane - Cynthia Hand"
+        ], 
+        "Year": 2021, 
+        "Concentration": "", 
+        "ID": " Carmen_Sierra_Horn", 
+        "Positions": [], 
+        "Name": " Carmen Sierra Horn"
+    }, 
+    {
+        "Pledge": 2018, 
+        "Hometown": " West Hartford, CT", 
+        "Member": "Sibling", 
+        "Books": [
+            "Harry Potter series - J. K. Rowling", 
+            "Kingsbridge trilogy - Ken Follett", 
+            "Outlander series - Diana Gabaldon", 
+            "The Strange and Beautiful Sorroes of Ava Lavender - Leslye Walton", 
+            "Memoirs of an Imaginary Friend - Matthew Dicks"
+        ], 
+        "Year": 2020, 
+        "Concentration": "Applied Mathematics", 
+        "ID": " Leah_Goldman", 
+        "Positions": [], 
+        "Name": " Leah Goldman"
+    }, 
+    {
+        "Pledge": 2017, 
+        "Hometown": "Marietta, GA", 
+        "Member": "Sibling", 
+        "Books": [
+            "Harry Potter series", 
+            "Gemma Doyle trilogy", 
+            "Inheritance Cycle", 
+            "Protector of the Small quartet", 
+            "Princess Academy", 
+            "The Host", 
+            "Vorkosigan chronicles"
+        ], 
+        "Year": 2019, 
+        "Concentration": "International Relations; Literary Arts", 
+        "ID": "Heather_Davis", 
+        "Positions": [
+            "Rush Chair, Spring 2018", 
+            "Literature Chair, Fall 2018", 
+            "Pine Room Chair, Fall 2018"
+        ], 
+        "Name": "Heather D. Davis"
+    }
+]
