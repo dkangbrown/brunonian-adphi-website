@@ -1,15 +1,27 @@
 # Website for the Brunonian Chapter of the Alpha Delta Phi Society.
 
+The Alpha Delta Phi Society is a diverse, gender-inclusive community of friends that encourage
+each other's passions and have lots of fun along the way. Whether you find us hanging
+out in the lounge, singing in the pine room, playing video games in the TV room, or
+baking in the kitchen, you can expect excellent company, meaningful conversation,
+and boundless shennanigans. We celebrate our Society's rich history and traditions, but most
+importantly, we care deeply for one another and develop lifelong friendships. If the
+Alpha Delta Phi Society sounds like a place you'd like to call home, stop by
+anytime—we'd love to meet you!
+
+This codebase has been created and maintained by web chairs of the Bruononian Alpha Delta Phi Society.
+It was hosted on a web address provided by Brown until that was discontinued.
+
 **Current Web Chair:**
 
 
-Past Web Chairs:
+**Past Web Chairs:**
 	- Brynn Chernosky '23
 	- Jimmy Niu '20
 	- Bro. Linda Chang '18
 
 	/ __)  /__\  (  \/  )(  \/  )( \/ )  ( ___)( ___)(  )  (  )  / __)
-	\__ \ /(__)\  )    (  )    (  \  /    )__)  )__)  )(__  )(__ \__ \
+	\__ \ /(__)\  )    (  )    (  \  /   ( __) ( __)  )(__  )(__ \__ \
 	(___/(__)(__)(_/\/\_)(_/\/\_) (__)   (____)(____)(____)(____)(___/
 
 
