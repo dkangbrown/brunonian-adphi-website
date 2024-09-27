@@ -1,7 +1,25 @@
+# Website for the Brunonian Chapter of the Alpha Delta Phi Society.
+
+**Current Web Chair:**
+
+
+Past Web Chairs:
+	- Brynn Chernosky '23
+	- Jimmy Niu '20
+	- Bro. Linda Chang '18
+
+	/ __)  /__\  (  \/  )(  \/  )( \/ )  ( ___)( ___)(  )  (  )  / __)
+	\__ \ /(__)\  )    (  )    (  \  /    )__)  )__)  )(__  )(__ \__ \
+	(___/(__)(__)(_/\/\_)(_/\/\_) (__)   (____)(____)(____)(____)(___/
+
+
+
+——————————————
+
+DESIGN:
 Photon by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 A simple (gradient-heavy) single pager that revisits a style I messed with on two
 previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
